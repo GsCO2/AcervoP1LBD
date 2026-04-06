@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.navbar-cor{
+	background-color: #63151B
+}
+
+.navbar-titulocor{
+	color: #CFB53B !important
+}
+
+.card-custom {
+    background-color: #63151B !important;
+    color: white;
+    width: 220px;
+    height: 350px;
+    border-radius: 30px;
+}
+
+.card-custom .btn {
+    background-color: white;
+    border: none;
+    color: black;
+}
+
+.btn-primary {
+  --bs-btn-bg: #63151B;
+  --bs-btn-border-color: #63151B;
+  --bs-btn-hover-bg: #63151B;
+  --bs-btn-hover-border-color: #63151B;
+}
+
